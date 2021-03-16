@@ -1,0 +1,11 @@
+C:\SeriousProject\bin\Debug\netcoreapp3.1\SeriousProject.exe
+C:\SeriousProject\bin\Debug\netcoreapp3.1\SeriousProject.deps.json
+C:\SeriousProject\bin\Debug\netcoreapp3.1\SeriousProject.runtimeconfig.json
+C:\SeriousProject\bin\Debug\netcoreapp3.1\SeriousProject.runtimeconfig.dev.json
+C:\SeriousProject\bin\Debug\netcoreapp3.1\SeriousProject.dll
+C:\SeriousProject\bin\Debug\netcoreapp3.1\SeriousProject.pdb
+C:\SeriousProject\obj\Debug\netcoreapp3.1\SeriousProject.csprojAssemblyReference.cache
+C:\SeriousProject\obj\Debug\netcoreapp3.1\SeriousProject.AssemblyInfoInputs.cache
+C:\SeriousProject\obj\Debug\netcoreapp3.1\SeriousProject.AssemblyInfo.cs
+C:\SeriousProject\obj\Debug\netcoreapp3.1\SeriousProject.dll
+C:\SeriousProject\obj\Debug\netcoreapp3.1\SeriousProject.pdb
